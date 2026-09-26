@@ -1,3 +1,5 @@
+untested, use at your own risk
+
 Fuzzbunch
 Fuzzbunch is a security research and offensive tooling framework originally associated with the NSA's exploit development ecosystem. The repository contains a collection of Python-based tooling, exploit payload metadata, Java launcher configuration, and companion resources used to orchestrate post-exploitation or vulnerability-research workflows.
 
